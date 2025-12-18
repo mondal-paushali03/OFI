@@ -1,23 +1,8 @@
 # 📦 NexGen Logistics – Predictive Delivery Risk Engine
 
-### 🌐 [**Access Live Dashboard**](https://paushali-nexgen-logistics-risk-engine.streamlit.app/)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://paushali-nexgen-logistics-risk-engine.streamlit.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[Streamlit App](https://paushali-nexgen-logistics-risk-engine.streamlit.app/)
 
 NexGen Logistics is a data-driven decision support tool designed to transform logistics from **reactive firefighting** to **predictive, cost-aware management**. By analyzing historical delivery data, warehouse inventory, and route conditions, it identifies delivery risks **before dispatch**.
-
----
-
-## 📑 Table of Contents
-* [🚀 Problem Statement](#-problem-statement)
-* [🛠 The Solution Architecture](#-the-solution-architecture)
-* [✨ Key Features](#-key-features)
-* [💻 Tech Stack](#-tech-stack)
-* [⚙️ Installation & Setup](#-installation---setup)
-* [🧠 Machine Learning Logic](#-machine-learning-logic)
-* [📩 Contact & Suggestions](#-contact)
-* [⚖️ License](#-license)
 
 ---
 
@@ -66,8 +51,7 @@ We calculate critical KPIs that serve as model inputs:
 
 ---
 
-## ⚙️ Installation & Setup
-
+## ⚙️ Installation
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/mondal-paushali03/nexgen-logistics-risk-engine.git](https://github.com/mondal-paushali03/nexgen-logistics-risk-engine.git)
@@ -99,7 +83,6 @@ I am always looking to improve the engine! If you have suggestions for new featu
 
 * **Email:** [mondal.paushali384@gmail.com](mailto:mondal.paushali384@gmail.com)
 * **GitHub:** [@mondal-paushali03](https://github.com/mondal-paushali03)
-* **Deployment Link:** [Live Streamlit App](https://paushali-nexgen-logistics-risk-engine.streamlit.app/)
 
 ---
 
