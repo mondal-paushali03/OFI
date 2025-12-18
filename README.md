@@ -20,14 +20,14 @@ The engine integrates multiple data streams—Orders, Carriers, Routes, and Ware
 
 
 ### 1. Data Fusion
-We merge five distinct datasets to gain a 360-degree view of the supply chain:
+Merged five distinct datasets to gain a 360-degree view of the supply chain:
 * **Orders & Delivery:** Historical performance and delay flags.
 * **Routes:** Real-time distance and weather impact data.
 * **Warehouse:** Inventory pressure (Current Stock vs. Reorder Levels).
 * **Costs:** Granular breakdown of fuel, labor, and maintenance.
 
 ### 2. Feature Engineering
-We calculate critical KPIs that serve as model inputs:
+Calculated critical KPIs that serve as model inputs:
 * **Route Risk Score:** A weighted metric combining traffic delay, weather impact, and distance.
 * **Inventory Pressure:** Identifying if a warehouse is overextended.
 * **Carrier Delay Rate:** A historical reliability score for each partner.
